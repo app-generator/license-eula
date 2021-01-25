@@ -6,7 +6,7 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 ## Licensing Information
 
-This document explains the usage for open-source products (apps/tools) developed by AppSeed. Used terms: 
+This document explains the usage terms for **open-source** products (apps/tools) developed by **[AppSeed](http://appseed.us/)**. Used terms: 
 
 - Solo-Developer: code digital products as freelencer (without being incorporated in a company)
 - StartUp - young company founded 12mo (or less) in the past
