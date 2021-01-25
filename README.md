@@ -29,7 +29,7 @@ This document explains the usage for open-source products (apps/tools) developed
 | **End Products** | --- |
 | Paying Users | **YES** |
 | End-Product sale to users/companies | **YES** |
-| End-Product sale/usage to [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
+| End-Product sale/usage for [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
 | Multiple copies (free/commercial products) | **YES** |
 | --- | --- |
 | **Support** | --- |
@@ -54,7 +54,7 @@ This document explains the usage for open-source products (apps/tools) developed
 | License required for each End-Product | **YES** |
 | Paying Users | **YES** |
 | End-Product sale to users/companies | **YES** |
-| End-Product sale/usage to [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
+| End-Product sale/usage for [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
 | End-Product for Government - All Countries | **YES** |
 | --- | --- |
 | **Support** | --- |
@@ -78,7 +78,7 @@ This document explains the usage for open-source products (apps/tools) developed
 | License required for each End-Product | **YES** |
 | Paying Users | **YES** |
 | End-Product sale to users/companies | **YES** |
-| End-Product sale/usage to [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
+| End-Product sale/usage for [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
 | End-Product for Government - All Countries | **YES** |
 | --- | --- |
 | **Support** | --- |
