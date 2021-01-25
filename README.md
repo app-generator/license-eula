@@ -10,8 +10,7 @@ This document explains the usage for open-source products (apps/tools) developed
 
 - Solo-Developer: code digital products as freelencer (without being incorporated in a company)
 - StartUp - young company founded 12mo (or less) in the past
-- Company - Active for 1 year or more
-- Small Company - maximum 3 developers
+- Small Company - maximum 3 developers, active for more than 1year 
 - Company - More than 4 developers and less than 50
 - Corporate - More than 50 developers 
 
@@ -22,7 +21,7 @@ This document explains the usage for open-source products (apps/tools) developed
 |      **Target Entities** - Who can benefit      | --- |
 | ---------------------------------- | --- |
 | Solo-Developers | **YES** |
-| Small Companies - Max 3 developers | **YES** |
+| Small Companies (max 3 developers) | **YES** |
 | StartUps (unlimited team) - Age <= 12mo (1year) | **YES** | 
 | [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
 | --- | --- |
@@ -38,8 +37,8 @@ This document explains the usage for open-source products (apps/tools) developed
 | **Discord** - [24/7 LIVE Service](https://discord.gg/fZC6hup) | **NO** |
 | --- | --- |
 | **Forbidden Usage** | --- |
-| Companies - 4+ developers, less than 50 | **NOT Allowed** |
-| Corporates - 50+ developers | **NOT Allowed** |
+| Used in Companies - 4+ developers, less than 50 | **NOT Allowed** |
+| Used in Corporates - 50+ developers | **NOT Allowed** |
 | End-Products for Government - All Countries | **NOT Allowed** |
 
 <br />
@@ -55,7 +54,7 @@ This document explains the usage for open-source products (apps/tools) developed
 | Paying Users | **YES** |
 | End-Product sale to users/companies | **YES** |
 | End-Product sale/usage for [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
-| End-Product for Government - All Countries | **YES** |
+| End-Product for Government (all Countries) | **YES** |
 | --- | --- |
 | **Support** | --- |
 | Github (issues tracker) | **YES** |
@@ -64,7 +63,7 @@ This document explains the usage for open-source products (apps/tools) developed
 | --- | --- |
 | **Forbidden Usage** | --- |
 | Single license for multiple End-Products | **NOT Allowed** |
-| Corporates - 50+ developers | **NOT Allowed** |
+| Used in Corporates - 50+ developers | **NOT Allowed** |
 
 <br />
 
