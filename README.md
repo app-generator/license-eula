@@ -1,4 +1,4 @@
-# EULA - End User License Agreement  
+# End User License Agreement  
 
 Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
