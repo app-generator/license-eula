@@ -19,7 +19,7 @@ This document explains the usage for open-source products (apps/tools) developed
 
 ### Free Usage 
 
-| **Target Entities** - Who can benefit | --- |
+|      **Target Entities** - Who can benefit      | --- |
 | ---------------------------------- | --- |
 | Solo-Developers | **YES** |
 | Small Companies - Max 3 developers | **YES** |
@@ -46,7 +46,7 @@ This document explains the usage for open-source products (apps/tools) developed
 
 ### Basic License
 
-| **Target Entities** - Who can benefit | --- |
+|      **Target Entities** - Who can benefit      | --- |
 | ---------------------------------- | --- |
 | Small Companies - 4+ developers, less than 50 | **YES** |
 | --- | --- |
@@ -63,14 +63,14 @@ This document explains the usage for open-source products (apps/tools) developed
 | **Discord** - [24/7 LIVE Service](https://discord.gg/fZC6hup) | **YES** |
 | --- | --- |
 | **Forbidden Usage** | --- |
-| Single license for multiple End-Products | **NO** |
-| Companies/Corporates - 50+ developers | **NO** |
+| Single license for multiple End-Products | **NOT Allowed** |
+| Companies/Corporates - 50+ developers | **NOT Allowed** |
 
 <br />
 
 ### Company License
 
-| **Target Entities** - Who can benefit | --- |
+|      **Target Entities** - Who can benefit      | --- |
 | ---------------------------------- | --- |
 | Companies/Corporates - 50+ developers | **YES** |
 | --- | --- |
@@ -87,7 +87,7 @@ This document explains the usage for open-source products (apps/tools) developed
 | **Discord** - [24/7 LIVE Service](https://discord.gg/fZC6hup) | **YES** |
 | --- | --- |
 | **Forbidden Usage** | --- |
-| Single license for multiple End-Products | **NO** |
+| Single license for multiple End-Products | **NOT Allowed** |
 
 <br />
 
