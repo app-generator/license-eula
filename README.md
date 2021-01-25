@@ -8,9 +8,9 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 This document explains the usage for open-source products (apps/tools) developed by AppSeed. Used terms: 
 
-- Solo-Developer: develop digital products as freelencers, without being incorporated in a company
-- StartUp - young company founded 12mo in the past (or less, 6,8mo ..)
-- Company - Active for 1year or more
+- Solo-Developer: develop digital products as freelencer (without being incorporated in a company)
+- StartUp - young company founded 12mo (or less) in the past
+- Company - Active for 1 year or more
 - Small Company - maximum 3 developers
 - Company - More than 4 developers and less than 50
 - Corporate - More than 50 developers 
