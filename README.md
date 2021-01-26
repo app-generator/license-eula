@@ -43,7 +43,7 @@ This document explains the usage terms for **open-source** products (apps/tools)
 
 <br />
 
-### Basic License
+### Basic License $49 - [Purchase](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KGZMCTYW5K7G2) (via PayPal)
 
 |      **Target Entities** - Who can benefit      | --- |
 | ---------------------------------- | --- |
@@ -67,7 +67,7 @@ This document explains the usage terms for **open-source** products (apps/tools)
 
 <br />
 
-### Company License
+### Company License $199 - [Purchase](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JGWLUMVMMZ9S8) (via PayPal)
 
 |      **Target Entities** - Who can benefit      | --- |
 | ---------------------------------- | --- |
